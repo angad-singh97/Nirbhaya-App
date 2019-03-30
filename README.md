@@ -34,4 +34,7 @@ Nirbhaya App - Push 02
 
 - removed lower lying values from dataset to reduce complexity of said structure
 
-Next Task: implementing k-means to label crime levels according to general trends.
+Next Task: 
+-implementing k-means to label crime levels according to general trends.
+-use these labels to gauge whether an area is dangerous or not
+
